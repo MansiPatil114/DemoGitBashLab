@@ -1,1 +1,2 @@
 I m using git bash n lab
+Adding new line checking edit 
